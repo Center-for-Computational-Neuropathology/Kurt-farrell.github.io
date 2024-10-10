@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "0000072500051496972961.jpg"
+  avatar           : "images/0000072500051496972961.jpg"
   name             : "Neuroscientist, skier, and big data enthusiast"
   pronouns         : # example: "she/her"  
   bio              : "Computational neuroscientist at the Icahn School of Medicine with over ten years experience in the fields of molecular medicine, experimental neuropathology ..."
